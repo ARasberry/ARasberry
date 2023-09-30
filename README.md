@@ -1,6 +1,6 @@
-##Hello!
+# Hello! My name is Austin Rasberry
 
-My name is Austin Rasberry, I am a Computer Science student at the University of North Alabama.
+I am a Computer Science student at the University of North Alabama.
 
 I am interested in Full-Stack Engineering and creating user-focused programs.
 
